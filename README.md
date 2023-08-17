@@ -21,3 +21,9 @@ En este momento, siento una profunda necesidad de mejorar en todos los aspectos 
 
 ### Mantente en Contacto
 ¡No dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/matias-nicolas-lanza-091955244/)! Siempre estoy abierto a nuevas oportunidades y colaboraciones.
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=agustinibanez00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/agustinibanez00)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustinibanez00&layout=compact)](https://github.com/agustinibanez00)
