@@ -24,6 +24,6 @@ En este momento, siento una profunda necesidad de mejorar en todos los aspectos 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=matiaslanza99show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/matiaslanza99)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=matiaslanza99&showicons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/matiaslanza99)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaslanza99&layout=compact)](https://github.com/matiaslanza99)
