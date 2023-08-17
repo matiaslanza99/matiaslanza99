@@ -1,16 +1,23 @@
-### Hi there 👋
+# Acerca de Mí
+## ¡Hola! 👋 Soy Matías
 
-<!--
-**matiaslanza99/matiaslanza99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Programador FullStack graduado de HENRY, emocionado por dar mis primeros pasos en este fascinante mundo de la tecnología.
 
-Here are some ideas to get you started:
+### ¿Qué hago?
+Poseo conocimientos en áreas tanto de back-end como de front-end. Actualmente, estoy enfocado en mejorar mi eficiencia y velocidad en el trabajo, tanto para beneficio propio como para contribuir al éxito del equipo. Además, estoy trabajando en el desarrollo de mi portafolio y en proyectos en los cuales implemento nuevas herramientas y tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Metas
+En este momento, siento una profunda necesidad de mejorar en todos los aspectos posibles. Esto incluye profundizar en las tecnologías que ya conozco, así como mantenerme al día con las innovaciones actuales en el mercado.
+
+### Tecnologías que manejo
+- Node.js
+- HTML
+- CSS
+- React.js
+- Redux
+- React Bootstrap
+- Sequelize
+- PostgreSQL
+
+### Mantente en Contacto
+¡No dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/matias-nicolas-lanza-091955244/)! Siempre estoy abierto a nuevas oportunidades y colaboraciones.
