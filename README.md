@@ -1,13 +1,12 @@
 # Acerca de Mí
 ## ¡Hola! 👋 Soy Matías
-
-Soy un Programador FullStack graduado de HENRY, emocionado por dar mis primeros pasos en este fascinante mundo de la tecnología.
+¡Bienvenido! Soy un programador FullStack graduado de HENRY, apasionado por la tecnología y entusiasmado por participar en proyectos innovadores. Poseo sólidos conocimientos en el desarrollo, y constantemente busco oportunidades para aplicar mis habilidades y adquirir nuevos conocimientos.
 
 ### ¿Qué hago?
-Poseo conocimientos en áreas tanto de back-end como de front-end. Actualmente, estoy enfocado en mejorar mi eficiencia y velocidad en el trabajo, tanto para beneficio propio como para contribuir al éxito del equipo. Además, estoy trabajando en el desarrollo de mi portafolio y en proyectos en los cuales implemento nuevas herramientas y tecnologías.
+Soy un desarrollador versátil con habilidades tanto en el front-end como en el back-end. Mi enfoque se centra en la ejecución de proyectos de desarrollo web. Constantemente busco integrar las últimas herramientas y tecnologías para ofrecer soluciones que no solo sean funcionales, sino que también mejoren significativamente la experiencia del usuario. Mi entusiasmo y dedicación se reflejan en la creación de páginas web atractivas.
 
 ### Metas
-En este momento, siento una profunda necesidad de mejorar en todos los aspectos posibles. Esto incluye profundizar en las tecnologías que ya conozco, así como mantenerme al día con las innovaciones actuales en el mercado.
+En mi trayectoria profesional, aspiro a alcanzar un dominio integral en el desarrollo web, abarcando no solo las tecnologías existentes, sino también las tendencias emergentes en el mercado. Mi objetivo es contribuir a proyectos desafiantes que impulsen mi crecimiento y permitan ofrecer soluciones innovadoras y eficaces en el ámbito del diseño web. Mi pasión impulsa mi búsqueda constante de conocimientos y habilidades, y me comprometo a evolucionar continuamente como profesional en este campo dinámico y en constante cambio.
 
 ### Tecnologías que manejo
 - Node.js
