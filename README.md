@@ -1,6 +1,6 @@
 # Acerca de Mí
 ## ¡Hola! 👋 Soy Matías
-¡Bienvenido! Soy un programador FullStack graduado de HENRY, apasionado por la tecnología y entusiasmado por participar en proyectos innovadores. Poseo sólidos conocimientos en el desarrollo, y constantemente busco oportunidades para aplicar mis habilidades y adquirir nuevos conocimientos.
+¡Bienvenido! Soy programador FullStack graduado de HENRY, apasionado por la tecnología y entusiasmado por participar en proyectos innovadores. Poseo sólidos conocimientos en el desarrollo, y constantemente busco oportunidades para aplicar mis habilidades y adquirir nuevos conocimientos.
 
 ### ¿Qué hago?
 Soy un desarrollador versátil con habilidades tanto en el front-end como en el back-end. Mi enfoque se centra en la ejecución de proyectos de desarrollo web. Constantemente busco integrar las últimas herramientas y tecnologías para ofrecer soluciones que no solo sean funcionales, sino que también mejoren significativamente la experiencia del usuario. Mi entusiasmo y dedicación se reflejan en la creación de páginas web atractivas.
